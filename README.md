@@ -1,7 +1,7 @@
 PianoTutor
 =======================
 
-An iPhone project to show how to detect frequencies of captured microphone audio. This mainly
+An iPhone project to show how to detect frequencies of captured microphone audio.
 
 This project uses Apple's Accelerate.framework and MoMu - A Mobile Music Toolkit from Stanford
 to perform digital signal processing. I particularly tune it to detect piano playing.
